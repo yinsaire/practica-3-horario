@@ -6,6 +6,47 @@ table {
 
 .leyenda {
     display: flex;
-  flex-direction: column;
-  
+    flex-direction: column;
+}
+
+td, 
+th {
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.header {
+    font-weight: 900px;
+    text-decoration: uppercase;
+    font-size: 24px;
+    background-color: #555555;
+    color: #fff;
+}
+
+.prog {
+    background-color: #9da4fa;
+}
+
+.lm {
+    background-color: #ffa1a1;
+}
+
+.si {
+    background-color: #a1ffa1;
+}
+
+.bd {
+    background-color: #a1ffff;
+}
+
+.ed {
+    background-color: #ffffa1;
+}
+
+.fol {
+    background-color: #ffa1ff;
+}
+
+.titles {
+    background-color: #efefef;
 }
